@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CountriesList</string>
+    <string name="population">"Population: "</string>
+    <string name="official_name">"Official Name: "</string>
+    <string name="region">Region:</string>
+    <string name="subregion">"Subregion: "</string>
+    <string name="spoken_languages">Spoken Languages:</string>
+    <string name="show_on_map">Show On Map</string>
+</resources>
